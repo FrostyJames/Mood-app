@@ -7,17 +7,19 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <div class="mood-card">
-        <h1>Whats your mood?</h1>
-        <select  id="options">
-            <option value="">choose your mood</option>
-            <option value="frustrated">frustrated</option>
-            <option value="sad">sad</option>
-            <option value="happy">happy</option>
-            <option value="curious">curious</option>
-
-        </select>
-        <button>Get Quote</button>
+   <div class="card">
+    <h1>What's Your Mood?</h1>
+    <select id="mood">
+      <option value="">-- Select Mood --</option>
+      <option value="frustrated">Frustrated</option>
+      <option value="focused">Focused</option>
+      <option value="curious">Curious</option>
+      <option value="tired">Tired</option>
+      <option value="confident">Confident</option>
+    </select>
+    <button id="getQuote">Get Quote</button>
+    <p id="quote">Your quote will appear here.</p>
+  </div>
 
     </div>
     <script src="./script.js"></script>
