@@ -1,32 +1,28 @@
-# Mood-Based Quote Card 🎭✨
+# Mood-Based Quote Card 
 
 A lightweight, responsive web app built with HTML, CSS, and JavaScript that delivers motivational quotes based on the user's selected mood. Whether you're frustrated, focused, curious, tired, or confident—this card has something to lift your spirits.
 
-## 🚀 Features
+## Features
 
-- 🎯 Mood selector with tailored quotes
-- 🧠 Dynamic quote generation using JavaScript
-- 🎨 Clean, responsive design with CSS styling
-- ⚡ No backend required—pure front-end implementation
+- Mood selector with tailored quotes
+-  Dynamic quote generation using JavaScript
+- Clean, responsive design with CSS styling
+-  No backend required—pure front-end implementation
 
-## 📸 Preview
-
-![Mood-Based Quote Card Screenshot](screenshot.png) <!-- Optional: Add if you have a screenshot -->
-
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 
-## 📂 File Structure
+## File Structure
 mood-quotes/
 ├── index.html    # Main HTML structure 
 ├── styles.css       # Styling and layout 
 └── script.js        # Quote logic and interactivity
 
 
-## 🧪 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
